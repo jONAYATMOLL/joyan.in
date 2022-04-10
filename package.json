@@ -1,0 +1,16 @@
+{
+  "name": "joyan.in",
+  "version": "1.0.0",
+  "description": "![Responsive Fashion E-commerce Website Template with HTML, CSS and JavaScript](https://raw.githubusercontent.com/wpcodevo/lc28-fashion-ecommerce-website/starter/fashion%20ecommerce%20website%20html%20css%20scss%20javascript.png 'Responsive Fashion E-commerce Website Template with HTML, CSS and JavaScript')",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server  --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "live-server": "^1.2.1"
+  }
+}
